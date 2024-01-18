@@ -1,0 +1,1 @@
+subject  = ['physics', 'english', 'maths', 'webtech',]
